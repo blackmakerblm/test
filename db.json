@@ -11,5 +11,5 @@
   "Profil": [
     { "NOM": "BAH", "TAILLE": "1 metre", "postId": 1 },
     { "Prenom": "MAMADOU ALIOU", "body": "some comment", "postId": 1 }
-  ],
+  ]
 }

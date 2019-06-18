@@ -8,11 +8,8 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": [{
-    "name": "BAH"
-  },
-  {
-  "lastname":"MAMADOU ALIOU"
-}
-             ],
+  "Profil": [
+    { "NOM": "BAH", "TAILLE": "1 metre", "postId": 1 },
+    { "Prenom": "MAMADOU ALIOU", "body": "some comment", "postId": 1 }
+  ],
 }
